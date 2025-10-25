@@ -109,5 +109,5 @@ with col2:
         st.write(f"**Your obesity level is: {predicted_label}**")
 
 # Додатковий контент
-st.image("https://via.placeholder.com/150", caption="Obesity Awareness", use_column_width=True)
-st.write("Developed by [Your Name] for AI Innovations course.")
+st.image("https://png.pngtree.com/png-vector/20190119/ourmid/pngtree-run-obesity-woman-lose-weight-png-image_482295.png", caption="Obesity Awareness", use_column_width=True)
+st.write("Developed by Vitalii for AI Innovations course.")
